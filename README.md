@@ -1,10 +1,10 @@
-🎓Learning Outcomes
-Data Handling & Preprocessing – clean, transform, and prepare datasets
-Model Development – build predictive & classification models
-Machine Learning Algorithms – from simple to advanced approaches
-Model Evaluation – measure accuracy, precision, recall, and more
-Feature Engineering – improve models with better input features
-Problem-Solving & Model Selection – choosing the right algorithm for the task
+🎓Learning Outcomes\n
+Data Handling & Preprocessing – clean, transform, and prepare datasets\n
+Model Development – build predictive & classification models\n
+Machine Learning Algorithms – from simple to advanced approaches\n
+Model Evaluation – measure accuracy, precision, recall, and more\n
+Feature Engineering – improve models with better input features\n
+Problem-Solving & Model Selection – choosing the right algorithm for the task\n
 
 
 
