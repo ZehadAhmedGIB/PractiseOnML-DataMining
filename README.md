@@ -1,46 +1,46 @@
-🎓Learning Outcomes\n
-Data Handling & Preprocessing – clean, transform, and prepare datasets\n
-Model Development – build predictive & classification models\n
-Machine Learning Algorithms – from simple to advanced approaches\n
-Model Evaluation – measure accuracy, precision, recall, and more\n
-Feature Engineering – improve models with better input features\n
-Problem-Solving & Model Selection – choosing the right algorithm for the task\n
+🎓Learning Outcomes<br>
+Data Handling & Preprocessing – clean, transform, and prepare datasets<br>
+Model Development – build predictive & classification models<br>
+Machine Learning Algorithms – from simple to advanced approaches<br>
+Model Evaluation – measure accuracy, precision, recall, and more<br>
+Feature Engineering – improve models with better input features<br>
+Problem-Solving & Model Selection – choosing the right algorithm for the task<br>
 
 
 
-📂 Structure
-PractiseOnML-DataMining/
-│── datasets/         # Sample datasets used in projects
-│── notebooks/        # GoogleColab , Jupyter notebooks for step-by-step exercises
-│── src/              # Source code for ML models
-│── results/          # Model evaluation reports & visualizations
-│── README.md         # Project documentation
+📂 Structure<br>
+PractiseOnML-DataMining/<br>
+│── datasets/...........# Sample datasets used in projects<br>
+│── notebooks/......# GoogleColab , Jupyter notebooks for step-by-step exercises<br>
+│── src/......................# Source code for ML models<br>
+│── results/..............# Model evaluation reports & visualizations<br>
+│── README.md/..# Project documentation<br>
 
 
 
-🛠️ Tech Stack
-Programming Language: Python
-Libraries & Frameworks:
-         scikit-learn
-         TensorFlow
-         NumPy
-         Pandas
-         Matplotlib / Seaborn
+🛠️ Tech Stack<br>
+Programming Language: Python<br>
+Libraries & Frameworks:<br>
+         scikit-learn<br>
+         TensorFlow<br>
+         NumPy<br>
+         Pandas<br>
+         Matplotlib / Seaborn<br>
 
 
 
-⚙️Workflow chart 
-    A [Dataset]--> B [Data Preprocessing]
-    B --> C [Feature Engineering]
-    C --> D [Model Training]
-    D --> E [Model Evaluation]
-    E --> F [Deployment / Application]
+⚙️Workflow chart <br>
+    A [Dataset]--> B [Data Preprocessing]<br>
+    B --> C [Feature Engineering]<br>
+    C --> D [Model Training]<br>
+    D --> E [Model Evaluation]<br>
+    E --> F [Deployment / Application]<br>
 
 
 
-By the end of this course/project, you will be able to:
-Work with real-world datasets
-Apply classification, regression, and clustering algorithms
-Evaluate and compare different ML models
-Use Python ML libraries effectively
-Apply machine learning to healthcare, finance, NLP, and computer vision
+By the end of this course/project, you will be able to:<br>
+Work with real-world datasets<br>
+Apply classification, regression, and clustering algorithms<br>
+Evaluate and compare different ML models<br>
+Use Python ML libraries effectively<br>
+Apply machine learning to healthcare, finance, NLP, and computer vision<br>
